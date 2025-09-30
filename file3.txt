@@ -8,15 +8,6 @@ Este é o exemplo de um ficheiro de texto file3
   <li>Milk</li>
 </ul>
 
-<h1>Lista de coisas</h1>
-
-<ul>
-  <li>Bolos</li>
-  <li>Tostas</li>
-  <li>Sandes</li>
-</ul>
-
-
 
 
 
